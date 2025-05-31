@@ -28,8 +28,6 @@ Once set up, players will see the server name and player count on their Discord 
 - **src/config.lua**: Holds configuration settings such as the Discord application ID, server name, and logo URL.
 - **fxmanifest.lua**: The manifest file that defines the resource name, version, and included files.
 
--------------------------------------------------------------------------------------------
-
 ## 🔎 Support & Security
 
 If you have any questions or discover a security vulnerability, please contact me directly via my [Discord Profile](https://discordlookup.com/user/1069279857072160921). I am committed to responding promptly and assisting you as quickly as possible.
