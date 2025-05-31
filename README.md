@@ -10,7 +10,7 @@ Perfect for roleplay communities, organized gaming groups, or any FiveM environm
 - [x] Customizable logo for the server
 - [x] Easy configuration through `config.lua`
 - [ ] More features to come in the future...
-- [ ] 
+
 ## ⚙️ How It Works
 
 This script integrates with FiveM’s client-side API to update Discord Rich Presence in real-time, utilizing the configuration settings defined in `config.lua`. This enables players to display your server’s branding and current activity directly on their Discord profiles while connected.
