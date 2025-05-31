@@ -1,7 +1,8 @@
-# ⚙️ Discord Rich Presence
-This project implements a Discord Rich Presence for FiveM servers, allowing players to see server information directly on their Discord profiles.
+# ⚙️ Discord Rich Presence Integration for FiveM
+Enhance your FiveM server with seamless Discord Rich Presence functionality.
+This implementation allows players to display detailed server information—such as server name, player count, and custom status—directly on their Discord profiles.
 
-Ideal for roleplay communities, gaming groups, or any FiveM server that wants to elevate its player experience.
+Perfect for roleplay communities, organized gaming groups, or any FiveM environment aiming to deliver a more immersive and connected experience.
 
 ## ✨ Features
 - [x] Displays the server name
@@ -9,11 +10,12 @@ Ideal for roleplay communities, gaming groups, or any FiveM server that wants to
 - [x] Customizable logo for the server
 - [x] Easy configuration through `config.lua`
 - [ ] More features to come in the future...
+- [ ] 
+## ⚙️ How It Works
 
-## ⚙️ How it works
-The script hooks into FiveM’s client-side API and updates the Discord Rich Presence in real-time, using your provided settings from `config.lua`. Players will see your server branding and activity whenever they are connected.
+This script integrates with FiveM’s client-side API to update Discord Rich Presence in real-time, utilizing the configuration settings defined in `config.lua`. This enables players to display your server’s branding and current activity directly on their Discord profiles while connected.
 
-Once set up, players will see the server name and player count on their Discord profile while they are connected to the server. The logo will also be displayed, providing a visual representation of the server.
+Once configured, players will see the server name, player count, and server logo on their Discord profile, providing a clear and professional representation of your server and enhancing community visibility.
 
 ## 🛠️ Installation
 1. Clone the repository or download the files.
