@@ -5,5 +5,5 @@ AddEventHandler("kaloudas_presence:updatePresence", function(playerCount, maxPla
     SetDiscordRichPresenceAsset(Config.logoName)
     SetDiscordRichPresenceAssetText(Config.serverName)
     SetDiscordRichPresenceAssetSmall(Config.logoName)
-    SetDiscordRichPresenceAssetSmallText("YOUR_SERVER_NAME")
+    SetDiscordRichPresenceAssetSmallText("KALOUDAS")
 end)
