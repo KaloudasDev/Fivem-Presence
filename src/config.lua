@@ -1,5 +1,5 @@
 Config = {}
 
-Config.discordAppId = "1117914691361046751"
-Config.serverName = "Crown Roleplay"
-Config.logoName = "crown-logo"
+Config.discordAppId = "YOU_APP_ID"
+Config.serverName = "KALOUDAS"
+Config.logoName = "kaloudas-logo"
